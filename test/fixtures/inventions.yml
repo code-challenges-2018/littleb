@@ -1,0 +1,32 @@
+one:
+  title: one bit
+  description: has one bit
+  bits: light-sensor
+
+two:
+  title: two bits
+  description: shave and a haircut, two bits!
+  bits: light-sensor, timeout
+
+three:
+  title: three bits
+  description: shave and a haircut, three bits?
+  bits: bargraph, light-sensor, timeout
+
+onem:
+  title: one material
+  description: has one material
+  bits: light-sensor, timeout
+  materials: scissors
+
+twom:
+  title: two materials
+  description: this one has two m's
+  bits: bargraph, light-sensor, timeout
+  materials: scissors, tape
+
+threem:
+  title: 3M
+  description: has three materials
+  bits: light-sensor
+  materials: scissors, tape, construction-paper

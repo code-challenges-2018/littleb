@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+foo:
+  username: foo
+  email: foo@bar.com
+
+bar:
+  username: bar
+  email: bar@foo.com
